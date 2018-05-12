@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25325'
     url: http://www.gutenberg.org/2009/agents/25325
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19520#J-rkimiehet-miettim-ss-
 gutenberg_issued: '2006-10-10'
 gutenberg_type: Text
 identifiers:
