@@ -1,0 +1,26 @@
+_repo: J-rkimiehet-miettim-ss-_19520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hemmo, Kaarlo
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '25325'
+    url: http://www.gutenberg.org/2009/agents/25325
+description: ''
+gutenberg_issued: '2006-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19520'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Järkimiehet miettimässä
+url: http://www.gutenberg.org/ebooks/19520
